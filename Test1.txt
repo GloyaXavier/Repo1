@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8D2-A642
+
+ Directory of C:\Users\ADMIN\Desktop\Aspire\Trainings\Jenkins\JavaProject
+
+13-06-2023  16:24    <DIR>          .
+13-06-2023  16:24    <DIR>          ..
+05-06-2023  16:40               900 Hello.class
+05-06-2023  15:05               161 Hello.java
+13-06-2023  16:24                 0 Test1.txt
+               3 File(s)          1,061 bytes
+               2 Dir(s)  169,726,926,848 bytes free
